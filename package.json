@@ -1,0 +1,21 @@
+{
+  "name": "jszutils",
+  "version": "1.0.1",
+  "description": "Useful and small utilities for javascript",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JanJohanX/JSzUtils.js.git"
+  },
+  "keywords": [
+    "util",
+    "utilities",
+    "javascript"
+  ],
+  "author": "Jan Szotkowski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JanJohanX/JSzUtils.js/issues"
+  },
+  "homepage": "https://github.com/JanJohanX/JSzUtils.js#readme"
+}
